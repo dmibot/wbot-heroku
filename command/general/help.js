@@ -40,7 +40,7 @@ module.exports = {
 			}
 			let str =
 				`Hello, ${pushName === undefined ? sender.split("@")[0] : pushName}\n*Here My Command List*\n\n` +
-				"╭──────❨ *SMH BOT* ❩\n╰─────────\n\n";
+				"╭──────❨ *AYRAKU PRIVATE ASISTANT* ❩\n╰─────────\n\n";
 			const keys = Object.keys(category);
 			for (const key of keys) {
 				str += `╭──────❨ *${key.toUpperCase()}* ❩\n\`\`\`${category[key]
@@ -52,13 +52,13 @@ module.exports = {
 				msg.from,
 				{
 					text: str,
-					footer: "Kaguya PublicBot • FaizBastomi",
+					footer: "Ayraku • OpuxTAD",
 					templateButtons: [
-						{ urlButton: { displayText: "Telegram Bot", url: "https://t.me/secondMidnight_bot" } },
+						{ urlButton: { displayText: "Contact Me", url: "https://wa.me/62811666884" } },
 						{
 							urlButton: {
-								displayText: "Source Code",
-								url: "https://github.com/FaizBastomi/wbot/tree/multi-device",
+								displayText: "Follow Me",
+								url: "https://instagram.com/tammyartha",
 							},
 						},
 					],
