@@ -1,6 +1,6 @@
 {
-    "name": "wbot-md",
-    "description": "A WhatsApp Bot built with Baileys",
+    "name": "ayraku",
+    "description": "A WhatsApp Bot built with Baileys baseon FaizBastomi wbot",
     "buildpacks": [{
         "url": "heroku/nodejs"
     }, {
@@ -15,11 +15,11 @@
         },
         "owner": {
             "description": "Your Phonenumber[]",
-            "value": ["62xx@s.whatsapp.net"]
+            "value": ["6285172206884@s.whatsapp.net", "62811666884@s.whatsapp.net"]
         },
         "openWeather": {
             "description": "Open Wheater Apikey",
-            "value": ""
+            "value": "46fbd20c53fa7bbbca0b418dcc1916b"
         },
         "igCookie": {
             "description": "Instagram Cooke",
@@ -27,11 +27,11 @@
         },
         "session": {
             "description": "Name MD Session",
-            "value": "session-md.json"
+            "value": "ayra-md.json"
         },
         "legacySession": {
             "description": "Name Legacy Session",
-            "value": "legacy-session.json"
+            "value": "ayra-session.json"
         },
         "user_db": {
             "description": "Name User Database",
