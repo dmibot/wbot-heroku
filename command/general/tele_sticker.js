@@ -42,7 +42,7 @@ module.exports = {
 					msg.from,
 					{
 						text,
-						footer: "Kaguya PublicBot • FaizBastomi",
+						footer: "Ayraku • OpuxTAD",
 						buttons,
 						headerType: 1,
 					},
@@ -65,7 +65,7 @@ module.exports = {
 					msg.from,
 					{
 						text,
-						footer: "Kaguya PublicBot • FaizBastomi",
+						footer: "Ayraku • OpuxTAD",
 						buttons,
 						headerType: 1,
 					},
@@ -83,7 +83,7 @@ module.exports = {
 					msg.from,
 					{
 						text,
-						footer: "Kaguya PublicBot • FaizBastomi",
+						footer: "Ayraku • OpuxTAD",
 						buttons,
 						headerType: 1,
 					},
