@@ -10,7 +10,7 @@
 > [Legacy](https://github.com/FaizBastomi/wbot/tree/legacy) branch <br />
 Untuk instalasi bahasa Indonesia lihat [disini](./ID.md)<br />
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/FaizBastomi/wbot/tree/heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dmibot/wbot-heroku/tree/heroku)
 
 </div><br />
 <br />
